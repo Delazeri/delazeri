@@ -1,6 +1,3 @@
-# 👾 About Me:
-Dev front-end em formação<br>https://delazeri.github.io/portifolio/
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-clara-delazeri) 
